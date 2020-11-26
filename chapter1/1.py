@@ -1,0 +1,5 @@
+name=input("请输入你的姓名")
+c=input("请输入你的班级")
+number=input("请输入你的学号")
+QQ=input("请输入你的QQ")
+print(name,c,number,QQ)

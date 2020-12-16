@@ -1,0 +1,12 @@
+from turtle import*
+setup(800,800)
+pendown()
+seth(0)
+fd(150)
+seth(90)
+fd(150)
+seth(180)
+fd(150)
+seth(270)
+fd(150)
+done()
